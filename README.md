@@ -5,7 +5,7 @@ To run:
  - run npm i in the terminal
  - run npm run dev
 
-Home Page:
+Home Page: by default displays most popular movies
 ![image](https://github.com/user-attachments/assets/559b262f-4025-411c-828b-761e7da55155)
 
 Search for Spiderman:
