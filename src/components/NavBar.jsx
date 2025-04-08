@@ -4,7 +4,7 @@ function NavBar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/">ER Website</Link>
+        <Link to="/">Movie Website</Link>
       </div>
       <div className="navbar-links">
         <Link to="/" className="nav-link">
