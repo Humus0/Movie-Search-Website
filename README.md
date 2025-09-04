@@ -12,7 +12,7 @@
 ## Search for Spiderman:
 ![image](https://github.com/user-attachments/assets/61f4217c-a758-41cb-b75a-08e1cec2a88f)
 
-## After a Movie is Favorited: 
+## After a Movie is Favourited: 
 ![image](https://github.com/user-attachments/assets/fe55ad8f-80ef-489c-bf80-55b496aa08dd)
 
 ## Favourites Page:
